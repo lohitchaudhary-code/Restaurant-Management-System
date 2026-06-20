@@ -1,0 +1,3 @@
+pizza,250.0,Fast Food
+Burger,120.0,Fast Food
+pasta,200.0,Italian

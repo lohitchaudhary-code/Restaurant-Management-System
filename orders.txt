@@ -1,0 +1,7 @@
+
+--- Order ID: 345 ---
+Customer: Johar
+pizza x2 = €500.0
+Burger x1 = €120.0
+pasta x1 = €200.0
+Total: €820.0
